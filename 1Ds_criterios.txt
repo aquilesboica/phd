@@ -1,0 +1,20 @@
+1.1 - Objetivo
+- Estabelecer um plano de investigação conducente à realização de uma tese de doutoramento.
+- Prever todas as fases de investigação, desde a recolha de dados bibliográficos à familiarização com os instrumentos críticos relevantes e à redação da tese de doutoramento.
+- Deve incluir dados preliminares e análises prévias?
+1.2 - Plano de investigação
+1- Pesquisa bibliográfica 
+2- Título provisório - Prompting na Linguística Forense: Desenvolvimento e treino de um modelo especializado na deteção de fake News geradas por IA
+3- Introdução - Apresentação do tema, justificação da pesquisa, relevância, impacto, originalidade e a viabilidade do projeto
+4- Questão de investigação e objetivos - Como as diferentes técnicas de prompting influenciam a eficácia dos modelos de linguagem na deteção de fake news geradas por IA?
+5 - Hipóteses - Suposições iniciais que serão testadas na pesquisa
+6- Cronograma - Planeamento das etapas da pesquisa ao longo do projeto.
+7 - Metodologia e procedimento - Explicação da abordagem (qualitativa, quantitativa ou mista), técnicas de análise, aquisição de dados e instrumentos
+A - Tecnologia
+A - ChatGPT 
+Vantagens: mais mediático, mais artigos científicos, centralização dos estudos, maior liberdade.
+Desvantagens: - administrador é a OpenAI(questões de ética e segurança de dados em estudos académicos) 
+Custos - ChatGPT Subscription Plans, API Pricing (GPT-4o: $5.00 per million input tokens, $15.00 per million output tokens). OpenAI Playground( tokens e api), ChatGPT Plus Subscribers: For $20 per month, Plus subscribers gain access to GPT-4o and GPT-4 models, advanced data analysis, and the ability to use plugins.
+B - Tecnologia com LLM portugueses: 
+Vantagens - não há custos de utilização; integração em projetos nacionais para financiamento futuro. 
+Desvantagens - Dependência de plataformas universitárias que são fruto da investigação de estudantes e professores.
